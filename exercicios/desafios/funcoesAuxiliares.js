@@ -1,7 +1,7 @@
 let i = 0;
 
 function gets(entrada) {
-        const valor = entrada[i];
+    const valor = entrada[i];
     i++;
     return valor;
 }

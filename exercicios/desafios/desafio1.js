@@ -21,7 +21,7 @@ function classificarMedia (media) {
 (function(){
     const {gets, print} = require('./funcoesAuxiliares');
 
-    const entrada = ['aaa'];
+    const entrada = [5.5];
 
     print((classificarMedia(gets(entrada)) + "."));
 })()
